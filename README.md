@@ -1,5 +1,4 @@
 # MaskMorpher: Generating Video Transitions with Line Matches
-### Mia Kan
 
 Sep 2025
 MSc Dissertation: Generative Video Transitions. UCL Computer Graphics, Vision, and Imaging
